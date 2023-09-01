@@ -8,7 +8,7 @@ I like to learn new technologies and combine existing ones in my tech arsenal wh
 Competencies: Data Visualization, JavaScript, React, Deployments
 - 🌱 I’m currently learning AWS Infrastructure services and Angular
 - 💞️ I’m looking to collaborate on all kinds of open source projects.
-- 📫 Reach me out at zarar1471@gmail.com on gmail or skype.
+- 📫 Reach me out at md.zarar.ahmed@gmail.com on gmail or skype.
 
 <!---
 ZararAhmed/ZararAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
