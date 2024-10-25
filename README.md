@@ -5,7 +5,7 @@ Previously, I worked as a React developer focused on creating interactive and be
 
 I like to learn new technologies and combine existing ones in my tech arsenal which makes way for diversifying and exploring new ways of using technologies.
 
-Competencies: Data Visualization, JavaScript, React, Deployments
+Competencies: Data Visualization, JavaScript, React, Vue, Deployments
 - 🌱 I’m currently learning AWS Infrastructure services and Angular
 - 💞️ I’m looking to collaborate on all kinds of open source projects.
 - 📫 Reach me out at md.zarar.ahmed@gmail.com on gmail or skype.
